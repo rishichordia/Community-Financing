@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CrowdFunding -Blockchain 
 
 ## About
@@ -70,3 +71,6 @@ Blockchain technology, among all its benefits, can be best put to use by providi
 | semantic-ui-css | 2.4.1 | react component kit provides theme to react component as CSS |
 | next-routes | 1.4.2 | Dynamic Routes for Next.js |
 
+=======
+# Open-CrowdFunding
+>>>>>>> e858ddc9a9e808e7b9917a6a59f755d6f1ac348e
