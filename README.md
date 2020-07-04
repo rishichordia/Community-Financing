@@ -13,7 +13,7 @@ However, a greater concern is the fraud commited by the dealers and traders  who
 Blockchain technology, among all its benefits, can be best put to use by providing provable milestones as contingencies for giving, with smart contracts releasing funds only once when milestones establish that the money is being used the way that it is said to be.
 ## Screen-shots
 ### Home Page
-![Home Page](https://drive.google.com/uc?export=view&id=1_uepSKJ43kZ2hiW7OUYZMPn9nX3EbhRj)
+![Home Page](https://drive.google.com/file/d/17Nnl2GD5RGDp7cMT0ZnqH_vYUvOyuGxu/view?usp=sharing)
   
 ### Campaigns Dashboard
 
