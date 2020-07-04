@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrowdFunding -Blockchain 
 
 ## About
@@ -72,5 +71,3 @@ Blockchain technology, among all its benefits, can be best put to use by providi
 | next-routes | 1.4.2 | Dynamic Routes for Next.js |
 
 =======
-# Open-CrowdFunding
->>>>>>> e858ddc9a9e808e7b9917a6a59f755d6f1ac348e
