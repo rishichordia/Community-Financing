@@ -19,7 +19,7 @@ Blockchain technology, among all its benefits, can be best put to use by providi
 <img src = "https://drive.google.com/uc?id=1h73uURgZ9SHW531L5pwmrNNWwqn4NWnk">
 
 ### Campaigns Request
-![Campaigns Request](https://drive.google.com/uc?export=view&id=1uU5qLDy6GXbEjedySqx6AJCxw9Ro57MC)
+<img src = "https://drive.google.com/uc?id=1zPpmb-BRfR7wgqghMfleMs05AEp7zsQN">
 
 ###  `Requirements`
 
