@@ -1,15 +1,15 @@
 # Community Funding -using Blockchain 
 
 ## About
- A decentralised web application for financing a community or a social cause by group of people using blockchain and ethereum technology involving no third parties
+ A decentralised web application for financing a community or a social cause by group of people using blockchain and ethereum technology involving no third parties.
 It involves no third parties and anyone can raise funds as well as donate to a particular Fund through a secure peer to per network on the ethereum blockchain.
 The application uses concepts of ethereum blockchain using solidity contracts and a react based frontend.
-A request can be made by the owner of an campaign to transfer funds which has to be approved by majority of DOnors .This allows the correct use of their funds. 
+A request can be made by the owner of an campaign to transfer funds which has to be approved by majority of Donors .This allows the correct use of their funds. 
 
 
 ## Why use Blockchain?
-Crowdfunding has become an extremely useful alternative to venture capital, and has also allowed non-traditional projects, such as those started by in-need families or hopeful creatives, a new audience to pitch their cause.
-However A greater concern is the fraud commited by the dealers and traders  who can access the funds of the donors without any check.
+Community funding has become an extremely useful alternative to venture capital, and has also allowed non-traditional projects, such as those started by in-need families or hopeful creatives, a new audience to pitch their cause.
+However, a greater concern is the fraud commited by the dealers and traders  who can access the funds of the donors without any check.
 Blockchain technology, among all its benefits, can be best put to use by providing provable milestones as contingencies for giving, with smart contracts releasing funds only once when milestones establish that the money is being used the way that it is said to be.
 ## Screen-shots
 ### Home Page
@@ -22,28 +22,27 @@ Blockchain technology, among all its benefits, can be best put to use by providi
 ### Campaigns Request
 ![Campaigns Request](https://drive.google.com/uc?export=view&id=1uU5qLDy6GXbEjedySqx6AJCxw9Ro57MC)
 
-###  `Prerequisite`
+###  `Requirements`
 
- 1. Install **Metamask** as Google Chrome Extension and Create an account.
+ 1. Install **Metamask** as Firefox Extension(Google Chrome at your own risk) and create an account.
  2.  Request Ether by sharing your ethereum address in social media <br>(`https://faucet.rinkeby.io/)`
- 3. Get 0.01 ether free by giving the ethereum address <br>`(http://rinkeby-faucet.com/)`
- 4. Create an account in [https://infura.io](https://infura.io/)
- 5. Create .env file in Ethereum directory and add these line to it.
+ 3. Create an account in [https://infura.io](https://infura.io/)
+ 4. Create .env file in Ethereum directory and add these lines.
 	 
 
-	> mnemonic = 'Your mnemonic code' <br>
-	link = 'Your infura end point link '
+	> mnemonic = 'her goes your mnemonic code from metamask also called seed' <br>
+	link = 'Your infura end point link after you create a project on infura'
 	
- 6. Deploy Contract by going into Ethereum Directory and run.
+ 5. After deploying Contract by going into Ethereum Directory and running
 	> node deploy.js
 
-	Copy the contract deploy address and replace it in factory.js file.
+	Copy the contract deploy address from the terminal and replace it in factory.js file.
 
- 7. Replace your "infura end point link" in web3.js file
+ 6. Replace your "infura end point link" in web3.js file.
 
 ### `Steps To be Followed `
 1. **Install the required dependencies**
- > npm install
+ > sudo npm install
  2. **Compile the Contract**
  > node compile.js
  3. **Test the Contract**
