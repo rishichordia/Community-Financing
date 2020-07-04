@@ -1,4 +1,4 @@
-# CrowdFunding -Blockchain 
+# Community Funding -using Blockchain 
 
 ## About
  A decentralised web application for financing a community or a social cause by group of people using blockchain and ethereum technology involving no third parties
